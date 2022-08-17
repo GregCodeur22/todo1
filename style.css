@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+background: -webkit-linear-gradient(right, #D1C914, #63A56E);
+}
+
+.container{
+    background: blue;
+    max-width: 600px;
+    margin: 9rem auto;
+    border-radius: 40px;
+    background: #5E87BA;
+    background: -webkit-linear-gradient(bottom, #5E87BA, #5BD7B2);
+    box-shadow: 1px 3px 17px 1px rgba(0, 0, 0, 0.498);
+}
+
+#list{
+    text-align: center;
+    list-style: none;
+    padding: 20px;
+}
+
+#list li {
+    padding: 10px;
+}
+
+
+h1{
+    text-align: center;
+    padding: 20px;
+    letter-spacing: 5px;
+    text-shadow: 1px -1px 20px rgba(0, 0, 0, 0.484);
+}
+
+input[type='text'] {
+    background: -webkit-linear-gradient(right, #D1C914, #63A56E);
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    height: 40px;
+    width: 60%;
+    border: transparent;
+    border-radius: 20px;
+}
+
+
